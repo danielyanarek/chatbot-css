@@ -1,0 +1,14 @@
+.vfrc-chat {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+.vfrc-message--user {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+}
+
+.vfrc-message--assistant {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+}
